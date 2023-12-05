@@ -34,6 +34,9 @@ Your contributions are highly valued! If you have additional NLP interview quest
 
 Please make sure to follow the existing format and guidelines when adding new content. Your contributions will be reviewed, and once approved, they will be merged into the main repository.
 
+## **About Me**:
+I’m a seasoned Data Scientist and founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/). I've worked on various Machine Learning, NLP, and cutting-edge deep learning frameworks to solve numerous business problems.
+
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the content for both personal and commercial purposes. If you make significant contributions, consider adding your name to the list of contributors in the `CONTRIBUTORS.md` file.
